@@ -6,7 +6,7 @@ title: Julia Hamer-Hunt
 superuser: false
 
 # Role/position
-role: PPI Lead
+role: Patient and Public Involvement Lead
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://www.psych.ox.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research ...
+bio: I work within the Department of Psychiatry and the Oxford Health Biomedical Research Centre to promote patient and public involvement and engagement (PPI/E) in research.
 
 interests:
 - Patient and Public Involvement
@@ -72,16 +72,15 @@ user_groups:
 - Researchers
 ---
 
-Julia is the Patient and Public Involvement lead for the chronosig project. 
+I am the Patient and Public Involvement lead for the chronosig project. I work within the Department of Psychiatry and the Oxford Health Biomedical Research Centre to promote patient and public involvement and engagement (PPI/E) in research. My interest in PPI/E developed out of a desire to improve and manage my mood disorder (Bipolar Disorder 1).
 
-I work within the Department of Psychiatry and the Oxford Health Biomedical Research Centre to promote patient and public involvement and engagement (PPI/E) in research. My interest in PPI/E developed out of a desire to improve and manage my mood disorder (Bipolar Disorder 1).
+For almost 20 years I participated in clinical trials and studies ranging from a randomised control trial of different medication combinations to StemBANCC - a study to develop a resource of induced pluripotent stem cells for researchers to use in their search for drugs to treat and cure diseases, and everything in between.
 
-For almost 20 years I participated in clinical trials and studies ranging from, but not limited to: the BALANCE trial - a randomised control trial of different medication combinations; OXTEXT 2 - a health economics study of mood monitoring; AMOSS - a study that investigated activity monitoring in bipolar disorder using several devices measuring heart rate, physical activity and others; and StemBANCC - a study to develop a resource of induced pluripotent stem cells for researchers to use in their search for drugs to treat and cure diseases.
+Since 2015 I have been advising on how to raise the profile of mental health research, influence research design and how to best involve patients and members of the community in research. Through my role as co-Chair of PAR, I am involved in the development and delivery of the [Patient and Public Involvement and Engagement Strategy (PPIE)](https://oxfordhealthbrc.nihr.ac.uk/patient-and-public-involvement/ppi-strategy/) for the OH BRC.
 
-Since 2015 my involvement has been in advising on how to raise the profile of mental health research, influence research design and how to best involve patients and members of the community in research.  Through my role as co-Chair of PAR, I am involved in the development and delivery of the [Patient and Public Involvement and Engagement Strategy (PPIE)](https://oxfordhealthbrc.nihr.ac.uk/patient-and-public-involvement/ppi-strategy/) for the OH BRC.
+In addition to my work at the OH BRC, I sit on numerous committees and boards relating to mental health research and its dissemination. In early 2020 I joined the Ethics Board for IM2PACT, an international research project, formed by a new consortium of 27 partners from academia, industry, small and medium size enterprises which “aims to tackle the unmet challenge of discovery and characterisation of blood-brain barrier targets and transport mechanisms for brain delivery of therapeutics to treat neurodegenerative and metabolic diseases”.
 
-In addition to my work at the OH BRC, I sit on the Oxford Centre for Human Brain Activity (OHBA) Working Group, as well as sit on the Board for the NIHR Allied Research Collaboration (ARC) Oxford and Thames Valley. I am also involved in a number of focus groups with the Nuffield Department of Primary Health Research and Care .  I recently joined the NIHR Evidence Synthesis working group working on a series of literature reviewing projects.  
+Latterly my interests have led me to becoming involved with medical education and in this role I have been co-delivering lectures on Mood Disorder as well as sitting as a panel member on Brain and Behaviour Professionalism Presentations. I am also a member of the Admissions Committee for Oxford Institute for Clinical Psychology Training and Research and a member of the Project Assessment Panel.
 
-Since early 2020 I have sat on the Ethics Board for IM2PACT.  IM2PACT is a research project, formed by a new consortium of 27 international partners from academia, industry, small and medium size enterprises which "aims to tackle the unmet challenge of discovery and characterisation of blood-brain barrier targets and transport mechanisms for brain delivery of therapeutics to treat neurodegenerative and metabolic diseases".
 
-More recently I have been co-delivering lectures on Mood Disorder and sat as a panel member on Brain and Behaviour Professionalism Presentations.  I am also a member of the Admissions Committee for Oxford Institute for Clinical Psychology Training and Research and a member of the Project Assessment Panel.
+
