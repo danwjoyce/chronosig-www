@@ -1,0 +1,18 @@
+# Page Sharer
+# Documentation: https://wowchemy.com/docs/customization/#page-sharer
+
+[[buttons]]
+  id = "twitter"
+  url = "https://twitter.com/chrono_sig"
+  title = "Twitter"
+  icon_pack = "fab"
+  icon = "twitter"
+  enable = true
+
+[[buttons]]
+  id = "email"
+  url = "mailto:?subject={title}&body={url}"
+  title = "Email"
+  icon_pack = "fas"
+  icon = "envelope"
+  enable = true

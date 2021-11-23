@@ -6,7 +6,11 @@ image:
 author: dwj
 ---
 
-Welcome to the chronosig project website.  
+Welcome to the chronosig project website.  We're in the middle of getting the chrono**sig** project up and running after the official project start in November 2021.
 
-This is a placeholder while we populate with more content and descriptions of the projects aims, goals and work-packages
+Follow us on [twitter](https://twitter.com/chrono_sig) to find out what's new.
+
+
+
+
 

@@ -2,7 +2,7 @@
 ---
 title: "Public and Patient Research in chronosig"
 subtitle: ""
-summary: "Julia Hamer-Hunt explores how public and patient involvement features in the chronosig project"
+summary: "Julia Hamer-Hunt explores how public and patient involvement features in the chrono**sig** project"
 authors: ["jhh"]
 tags: ["PPI", "announcements", "project", "introduction"]
 categories: ["PPI", "explainers"]
@@ -17,7 +17,7 @@ I quake whenever IT (information technology), machine learning (ML),
 data science – and latterly – the apparently more general term AI
 (artificial intelligence) are mentioned.
 
-In this inaugural blog post for the CHRONOsig project, I will outline
+In this inaugural blog post for the chrono**sig** project, I will outline
 some core concepts and explain why PPI is required front-and-centre in
 the project.
 
@@ -30,11 +30,11 @@ CRIS-Oxford (Case Record Interactive Search) Oversight group. UK-CRIS is
 a national programme to develop the clinical record (often called the
 electronic health record, or EHR) into a data asset and research tool
 for NHS Mental Health Trusts. It was through this work I met one of the
-researchers who later became involved in the CHRONOsig project.
+researchers who later became involved in the chrono**sig** project.
 
 # The Problem
 
-Firstly, what is CHRONOsig? CHRONOsig stands for CHRONOlogical
+Firstly, what is chrono**sig**? The acronym stands for CHRONOlogical
 SIGnatures. It is a project, funded by the National Institute of Health
 Research (NIHR), to develop a clinical decision support tool (CDST) that
 will deliver accurate, explainable and justified recommendations to
@@ -53,10 +53,10 @@ standardised referral tool to ‘grade’ patient’s severity and unmet needs
 – have yielded poor results (Slade et al. 2008). Patient care is delayed
 because they are being triaged multiple times, by different teams, who
 may disagree on the most appropriate treatment team for the patient’s
-needs. It is hoped that CHRONOsig will lead to improved and more
+needs. It is hoped that chrono**sig** will lead to improved and more
 accurate triage outcomes by automating some parts of the triage process.
 
-# CHRONOsig uses Artificial Intelligence and Machine Learning
+# chronosig uses Artificial Intelligence and Machine Learning
 
 For a start, what is the difference, if any, between IT, data science,
 machine learning and artificial intelligence? Every time these terms
@@ -64,7 +64,7 @@ arise I need to consult the internet to refresh my memory.
 
 Given the fluidity of terms like artificial intelligence (AI) and
 machine learning (ML), here, I’ll mainly use the term ML to mean any
-system, implemented on a computer, that learns to associate some
+system – implemented on a computer – where the system learns to associate some
 **inputs** to a desired (or target) **output** without being told
 explicitly what those associations are. In machine learning, this is
 called **classification** – learning what things are by seeing examples
@@ -100,15 +100,15 @@ this historical data is representative so that the ML system learns
 which produced the training data and which leads to harmful **biases**
 in machine learning applications.
 
-# Why PPI is Important to CHRONOsig
+# Why PPI is Important to chronosig
 
 From a PPI perspective, especially when ML is mentioned in the context
 of clinical decision support tools, I would like to emphasise the word
 **support**. The tool will not replace the clinician i.e. doctors,
 nurses, care-coordinators or any member of the team of clinicians making
-the decisions. CHRONOsig is there to **augment** their usual, routine
+the decisions. chrono**sig** is there to **augment** their usual, routine
 decision making processes and to help clinicians make better and quicker
-decisions which will hopefully, lead to more successful treatment and
+decisions with their patients, leading to more successful treatment and
 outcomes for the patient.
 
 The proposed CDST uses natural language processing (NLP) to extract data
@@ -117,11 +117,11 @@ the referral information. NLP is a sub-field of artificial intelligence
 and machine learning that works to capture the complexity of written
 (and spoken) language in a way that computers can meaningfully process
 when automating tasks as diverse as translation between languages,
-answering questions or, in CHRONOsig, extracting and representing
+answering questions or, in chrono**sig**, extracting and representing
 important and relevant information that might be used to guide
 clinicians when making triage decisions.
 
-# How Patient Data is Used in CHRONOsig
+# How Patient Data is Used in chronosig
 
 In EHRs, there is a lot of ‘free text’ ie the notes made by various
 clinicians relating to the patient’s diagnosis, symptoms of illness,
@@ -132,8 +132,11 @@ different or similar two patients are on the basis of what is written in
 their medical notes – much like the fruit example where “round” fruits
 are more likely to be apples than bananas. Similar patients would be
 expected to receive similar treatments in the same way that both red and
-green ‘versions’ of apples are indeed both apples despite differing in
-one property.
+green ‘versions’ of apples are indeed both examples of apples despite differing in
+one property (i.e. their colour).
+
+Using confidential medical data requires robust safeguards -- some of which are
+described on the [Frequently Asked Questions](../../about) page.
 
 # Concerns about Machine Learning
 
@@ -148,7 +151,7 @@ stakeholder involvement – even when the proposed application of ML
 *appears* benevolent.
 
 Given that just and equitable access to healthcare is a clear risk in
-CHRONOsig, patients are involved throughout the lifespan of this
+chrono**sig**, patients are involved throughout the lifespan of this
 project. The first PPI deliverable is a stakeholder impact assessment
 using the FAST (Leslie 2019) principles (fairness, accountability,
 sustainability and transparency) in parallel to dataset curation.
@@ -160,10 +163,10 @@ representative and appropriately anonymised. Where representativeness
 cannot be guaranteed, steps to mitigate this must be implemented at the
 outset. Our stakeholder impact assessment will include, for example, PPI
 definitions of an acceptable referral i.e. what characteristics
-stakeholders expect should be included or excluded from referrals, for
+stakeholders expect should be included or excluded from referrals. For
 example, features of a patient’s presentation which are thought to
 negatively bias clinical teams during existing, routine practice might
-be flagged for removal from the curated data set. A concrete example of
+be flagged for removal from the data set used in chrono**sig**. A concrete example of
 this would be diagnoses such as personality disorders that have
 historically been shown to be stigmatising and can result in clinical
 services denying access to care. There may be other information which
@@ -175,7 +178,7 @@ interactions with the triage process more generally.
 
 # Conclusion
 
-What is both novel and exciting about CHRONOsig is that it potentially
+What is both novel and exciting about chrono**sig** is that it potentially
 offers the opportunity for a transparent and equitable triage clinical
 decision support tool informed by patient and public input and this is
 especially important to patients, their families as well as other
