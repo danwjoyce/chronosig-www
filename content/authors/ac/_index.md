@@ -73,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Principal Investigators
 ---
 
 My main research interest is evidence-based mental health and [precision psychiatry](https://www.psych.ox.ac.uk/research/evidence-based-mental-health). My research focuses on the evaluation of pharmacological, psychological and psychosocial interventions, mainly about major depression, bipolar disorder and schizophrenia. I have carried out many systematic reviews, meta-analyses and randomised controlled trials in psychopharmacology, however in the past few years I have been also investigating relevant issues in epidemiological psychiatry and public health, like patterns of drug consumption, risk of serious adverse events (most of all, suicide and deliberate self harm) and implementation of treatment guidelines.
