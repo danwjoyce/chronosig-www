@@ -14,7 +14,7 @@ organizations:
   url: "https://www.psych.ox.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Niall is a DPhil candidate a the Big Data Institute at the University of Oxford.  He contributes his expertise with NLP for clinical data to the chronosig project.
+bio: Niall is a DPhil candidate at the Big Data Institute at the University of Oxford.  He contributes his expertise with NLP for clinical data to the chronosig project.
 
 interests:
 - Applied Artificial Intelligence
@@ -23,18 +23,18 @@ interests:
 
 # education:
 #   courses:
-#   - course: MRCPsych
-#     institution: Royal College of Psychiatrists
-#     year: 2015
-#   - course: MBBS 
-#     institution: King's College London
-#     year: 2010
-#   - course: PhD (Computer Science and Artificial Intelligence)
-#     institution: University of Southampton
-#     year: 2001
-#   - course: BSc Computer Science
-#     institution: University of Southampton
-#     year: 1995
+#   - course: XXX
+#     institution: Univ of Wherever
+#     year: 
+#   - course:  
+#     institution: 
+#     year: 
+#   - course: 
+#     institution: 
+#     year: 
+#   - course: 
+#     institution: 
+#     year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,15 +44,15 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/NtaylorOX
 - icon: home
   icon_pack: fas
   link: https://www.bdi.ox.ac.uk/Team/niall-taylor
@@ -76,4 +76,6 @@ user_groups:
 - Researchers
 ---
 
-Niall divides his time between .... 
+My overarching interests focus on the application and uptake of machine and deep learning models in clinical settings. In particular I am interested in driving AI towards mental health disorders, and developing sensible, usable, and practical tools to support clinical decision making.  A recent focus of mine has been on the field of explainability and transparency for ML models and integrating modern methods into end-to-end pipeline with the goal of avoiding opaque, black-box style models.  Current projects pertain to Natural Language Processing (NLP) and model explain-ability with the application to clinical free text data contained within NHS electronic health records.
+
+To further encourage transparency in my work,  I try to ensure my code is designed with scalability and reproducibility as priorities. Where possible, code and data used for projects will be packaged into a high quality github repository and made publically available.

@@ -18,7 +18,7 @@ bio: I work within the Department of Psychiatry and the Oxford Health Biomedical
 
 interests:
 - Patient and Public Involvement
-- Psychiatry
+- Mental Health
 
 # education:
 #   courses:
@@ -40,15 +40,15 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/
 - icon: home
   icon_pack: fas
   link: https://www.psych.ox.ac.uk/team/julia-hamer-hunt
