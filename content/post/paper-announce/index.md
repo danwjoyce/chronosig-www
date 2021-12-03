@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "New Preprint -- Pilot Work on Explainability"
+title: "New Preprint - Pilot Work on Explainability"
 subtitle: ""
 summary: "Niall Taylor recently published his conference paper (for the ML4H Conference) on pilot work using InfoCal for explainability and rationale production in NLP"
 authors: ["nt"]

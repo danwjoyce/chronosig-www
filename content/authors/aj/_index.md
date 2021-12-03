@@ -14,7 +14,7 @@ organizations:
   url: "https://www.psych.ox.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research ...
+bio: Dr Anthony James has been Consultant Child and Adolescent Psychiatrist at the Highfield Unit for 25 years. Dr James qualified at St Bartholomew’s Hospital London, undertook postgraduate medical training at St Bartholomew’s Hospital and specialist training in child and adolescent psychiatry at the Maudsley and Bethlem Hospitals. He has qualified in child psychotherapy and family therapy. His research work includes ADHD, psychopharmacology, epidemiology, psychosis using MRI, DTI and MEG, the care system, OCD, bipolar disorder, anxiety and depression. He has help set up the DBT service.
 
 interests:
 - Patient and Public Involvement
