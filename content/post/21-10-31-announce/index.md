@@ -1,6 +1,6 @@
 ---
 title: Announcing the start of the chronosig digital triage project
-date: 2021-10-31
+date: 2021-12-06
 image:
   focal_point: "top"
 author: dwj
@@ -12,7 +12,7 @@ You can read a description of the project [here](/publication/joyce2021/)
 
 We're curating an [FAQ](/about/) based on feedback from the project stakeholders.
 
-Finally, you can dollow us on [twitter](https://twitter.com/chrono_sig) to find out what's new or get in touch with us [here](/contact/)
+Finally, you can follow us on [twitter](https://twitter.com/chrono_sig) to find out what's new or get in touch with us [here](/contact/)
 
 
 

@@ -47,11 +47,16 @@ item:
     cta_icon_pack: fas
     cta_icon: book-reader
 
-  # - title: Right
-  #   content: 'I am right aligned 😄'
-  #   align: right
-  #   # overlay_color: '#333'
-  #   overlay_img: stone-background3.jpg
-  #   overlay_filter: 1.0
+  - title: Follow us on Twitter
+    content: 
+    align: center
+    # overlay_color: '#333'
+    overlay_img: stone-background3.jpg
+    overlay_filter: 1.0
+    cta_label: Follow 
+    cta_url: 'https://twitter.com/chrono_sig'
+    cta_icon_pack: fab
+    cta_icon: twitter
+
 
 ---
