@@ -22,6 +22,7 @@ content:
   - Administration
   - Visitors
   - Alumni
+  - Collaborators
 design:
   show_interests: false
   show_role: true
