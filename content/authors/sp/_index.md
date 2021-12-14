@@ -71,6 +71,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Collaborators
+- Collaborators (West London NHS Trust)
 ---
 Dr Sofia Pappa is an Hon Senior Lecturer at the Division of Psychiatry, Imperial College London and a Specialty Lead in Mental Health for the National Institute for Health Research (NIHR). She also works as a Consultant Psychiatrist and Mood & Psychosis Research Lead at West London NHS Trust.

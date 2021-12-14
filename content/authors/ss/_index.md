@@ -72,6 +72,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Collaborators
+- Collaborators (West London NHS Trust)
 ---
 Dr. Scholtz is a consultant psychiatrist who is specialises in the management of obesity related disorders and the preparation of patients for bariatric surgery, based at the Imperial Weight Centre, St Mary’s Hospital. She graduated from Stellenbosch University and completed her higher specialist training at St. George’s University of London. She has expertise in the management of eating disorders and obesity, and has worked within 3 different national referral centres in this field.

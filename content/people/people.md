@@ -22,7 +22,8 @@ content:
   - Administration
   - Visitors
   - Alumni
-  - Collaborators
+  - Collaborators (West London NHS Trust)
+  - Collaborators (Southern Health)
 design:
   show_interests: false
   show_role: true
