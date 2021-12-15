@@ -23,7 +23,7 @@ content:
   - Visitors
   - Alumni
   - Collaborators (West London NHS Trust)
-  - Collaborators (Southern Health)
+  - Collaborators (Southern Health NHS Foundation Trust)
 design:
   show_interests: false
   show_role: true
