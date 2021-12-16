@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Suchith Shetty 
+title: Dr Peter Phiri
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research and Data Information Analyst
+role: Research & Development Manager
 
 # Organizations/Affiliations
 organizations:
@@ -14,11 +14,11 @@ organizations:
   url: https://www.southernhealth.nhs.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Suchith is the CRIS Analyst at Southern Health NHS Foundation Trust and provides supports with any data analysis related work in the R&D team. He has recently completed his MSc degree in Computer Science with Data Science specialization from ELTE University, Budapest. Prior to that, he has worked as a Data Scientist/Analyst for a period of 5 years across various industry domains like Pharmaceuticals, Telecommunication, Retail, etc. His interest and passion to apply Data Science in the medical field was the driving force to join the R&D team.
+bio: Dr Peter Phiri, PhD is Research &Development Manager at Southern Health NHS Foundation Trust, a post he has held since 2015.  He is a registered Nurse/Cognitive Behavioural Psychotherapist. He has a wide range of clinical research experience of successfully designing, setting up and managing clinical trials within the field of mental health and physical conditions. He is also a Visiting Fellow with the University of Southampton.
 
-interests:
-- Data Science
-- AI for medical research
+# interests:
+# - Mental health
+# - Ethnic minorities
 
 
 
@@ -42,15 +42,15 @@ social:
   # - icon: envelope
   #   icon_pack: fas
   #   link: 'mailto:Suchith.shetty@southernhealth.nhs.uk'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Suchith19792
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/AyaatSudani
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Suchith19792
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/Suchith19792
   - icon: home
     icon_pack: fas
     link: https://www.southernhealth.nhs.uk/about-us/research/research-and-development
@@ -73,4 +73,4 @@ highlight_name: false
 user_groups:
 - Collaborators (Southern Health NHS Foundation Trust)
 ---
-Suchith is the CRIS Analyst at Southern Health NHS Foundation Trust and provides supports with any data analysis related work in the R&D team. He has recently completed his MSc degree in Computer Science with Data Science specialization from ELTE University, Budapest. Prior to that, he has worked as a Data Scientist/Analyst for a period of 5 years across various industry domains like Pharmaceuticals, Telecommunication, Retail, etc. His interest and passion to apply Data Science in the medical field was the driving force to join the R&D team.
+Dr Peter Phiri, PhD is Research &Development Manager at Southern Health NHS Foundation Trust, a post he has held since 2015.  He is a registered Nurse/Cognitive Behavioural Psychotherapist. He has a wide range of clinical research experience of successfully designing, setting up and managing clinical trials within the field of mental health and physical conditions. He is also a Visiting Fellow with the University of Southampton
