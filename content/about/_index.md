@@ -37,7 +37,7 @@ A clinician then has to decide:
 
 *Digital triage* is an attempt to leverage technology to assist clinicians in triage tasks with the aim to personalise, expedite and improve access to care.  chrono**sig** is designed to improve triage in secondary mental health services by leveraging contemporary machine learning (ML) technology on information contained in large, routinely-collected electronic health record (EHR) data.  
 
-Each patient’s historical eletronic health record (EHR) data captures one or more instances (or episodes) of care under mental health services.  A referral is almost always provided as documentation to help the recieving clinician make a triage decision.
+Each patient’s historical electronic health record (EHR) data captures one or more instances (or episodes) of care under mental health services.  A referral is almost always provided as documentation to help the recieving clinician make a triage decision.
 
 chrono**sig** will use natural language processing (NLP) techniques to represent a patient’s longitudinal signature (or ‘fingerprint’) -- capturing their history, signs/symptoms and presenting difficulties -- and then learn associations between these signatures and triage decisions (captured as explicit structured data in patient’s EHR data).  The aim is to deliver a triage clinical decision support tool (CDST) that takes as input a patient’s referral documentation, utilises existing medical notes (when available) and delivers a suggested triage outcome to assist MDTs.  
 
@@ -83,6 +83,23 @@ The referral and triage process is one target for process improvement where both
 
 To this end, the chrono**sig** project directly addresses the strategic priorities described in the Topol review (Foley & Woollard, 2019) and the NHS Long Term Plan (NHS England, 2019) that emphasise the use of EHRs to improve and personalise care for individuals.  
 
+## How chrono**sig** Works
+
+{{< figure src="chronosig-workflow-website-FAQ-diagram.png" caption="" numbered="false" >}}
+
+The diagram above outlines how chrono**sig** works for digital triaging:
+
+  1. A patient visits their GP (in primary care) for a mental health problem.  Their GP makes a referral (e.g. by email or letter) to the nearest secondary mental health NHS trust.
+  2. The referral is securely stored in the secondary care NHS Trust's electronic health record (EHR) system
+  3. Sometimes, the same person will have historical records (clinical notes) from previous contact with mental health services -- when available, this data is appended into one large **patient document** that captures the current issue as well as a near-complete record of the patient's history
+  4. The patient document is then converted into a machine-readable format -- this is where text and words are converted to numerical representations; for example, the word "MOOD" will be converted to a unique number such as `2048`, "INSOMNIA" to `184`, "LOW" to `276` and the word "WITH" to the number `4`.  So if the patient document contains the sentence *"low mood with insomnia"*, the resulting numerical version would be `{276, 2048, 4, 184}`  The result is a very large sequence of numerical data (called a **tokenized** string) which represents the complete patient document.  
+
+Referrals to secondary mental healthcare are triaged by a multi-disciplinary team (MDT) in "assessment meetings" where a group of mental health professionals will review each referral and decide on the most appropriate team for a given person.  
+
+  5. chrono**sig** takes a tokenized version of the patient document as an input.  chrono**sig** has previously been trained on tens-of-thousands of anonymised patient documents to a) locate and identify common patterns in the tokenized streams and b) to match these common patterns to treatment teams within secondary care.  chrono**sig** can then recommend which treatment teams have previously accepted and treated similar patients.
+  6. chrono**sig**'s recommendation is delivered to the MDT, which in the example above, shows that Team B is the best matching team, followed by Team C, D and then A.
+  7. To help clinicians use chrono**sig**'s recommendations robustly, the original patient document is displayed with highlighted regions showing the patterns in that chrono**sig** used to make it's recommendations -- this helps ensure that clinicians are aware of what features of a given patient are relevant to the recommendations chrono**sig** makes
+  8. There will be situations where chrono**sig**'s recommendations are inconclusive or don't make sense to the clinicians in the MDT -- in these circumstances, the MDT will review the full patient document to complete the triage process
 
 ## Who Supports chrono**sig**?
 The project is funded by the National Institute of Health Research (Grant Number: AI_AWARD02183) and hosted by the Department of Psychiatry at the University of Oxford, Oxford Health NHS Foundation Trust and the Oxford Health NIHR BRC. 
