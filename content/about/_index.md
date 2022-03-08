@@ -109,11 +109,19 @@ The project is funded by the National Institute of Health Research (Grant Number
 ## Data, Privacy and Security
 *Updated on 21st February 2022: the UK-CRIS network has been renamed the Akrivia Health Network*
 
+*Updated on 8th March 2022: additional links to the Akrivia Health Network website on data use-cases added*
+
 chrono**sig** makes use of medical data, specifically, that contained in the electronic health record (EHR) of specialist, secondary mental health NHS trusts.  The data required to build the chrono**sig** clinical decision support tool (CDST) for triage will be obtained from the **Akrivia Health Network** (AHN), formerly, the UK-CRIS network.  UK-CRIS network was a collaboration between sixteen secondary mental health NHS trusts across England participating and contributing electronic health record data to a secure research environment.  The relationship between UK-CRIS and the new AHN is described [below](#what-is-AHN).    
 
 All data in the AHN is anonymised and access is strictly controlled to authorised and qualified researchers (described in the subsections below). 
 
 Neither chrono**sig** (or the UK-CRIS network more generally) link data from secondary mental health care EHRs to any other healthcare records (for example, data is not linked to GP or other local hospital records).  All data used in the chrono**sig** project is historical data -- no patients actively being treated or triaged are used.  
+
+Akrivia Health have their own webpage [here](https://akriviahealth.com/data/) which also describes how they process, store, anonymise and make data available as well as a description of the intended uses.
+
+In the following sections, we have describe details of how chrono**sig** uses data and how the project specifically relates to the Akrivia Health Network and Platform.  
+
+We welcome any questions (or suggestions on how to make this material more useful) and you can contact us by the webform or email addresses [here](../contact/))
 
 ### Who processes and maintains the Akrivia Health Network (UK-CRIS) database? 
 <a name = "what-is-AHN"></a>
