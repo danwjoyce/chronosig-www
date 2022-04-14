@@ -57,6 +57,7 @@ needs. It is hoped that chrono**sig** will lead to improved and more
 accurate triage outcomes by automating some parts of the triage process.
 
 # chronosig uses Artificial Intelligence and Machine Learning
+<a name = "explain-AI"></a>
 
 For a start, what is the difference, if any, between IT, data science,
 machine learning and artificial intelligence? Every time these terms

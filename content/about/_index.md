@@ -17,8 +17,9 @@ header:
 
 
 ## What is Triage?
+*Updated: 14th April 2022 -- PPI feedback suggested minor changes to language for readability*
 
-*Triaging* is where a clinician synthesises available information to make a decision about what to do next. 
+*Triaging* is where a clinician combines available information to make a decision about what to do next. 
 
 For example, a clinician presented with a referral will usually have information about:
 
@@ -28,16 +29,18 @@ For example, a clinician presented with a referral will usually have information
 
 A clinician then has to decide:
 
-  1. how urgently the patient needs to be assessed or examined
+  1. how urgently the patient needs to be seen (for example, for assessment with a clinician)
   2. which group of clinicians, specialty or team would be best suited to help
 
 
 ## What is Digital Triage?
+*Updated: 14th April 2022 -- PPI feedback suggested minor changes to language for readability*
+
 > "Every hour spent in thinking and talking about **whom** to treat, and **how**, and **how long** is being subtracted from the available pool of therapeutic time itself" - Paul E. Meehl (1954) *Clinical versus Statistical Prediction*
 
 *Digital triage* is an attempt to leverage technology to assist clinicians in triage tasks with the aim to personalise, expedite and improve access to care.  chrono**sig** is designed to improve triage in secondary mental health services by leveraging contemporary machine learning (ML) technology on information contained in large, routinely-collected electronic health record (EHR) data.  
 
-Each patient’s historical electronic health record (EHR) data captures one or more instances (or episodes) of care under mental health services.  A referral is almost always provided as documentation to help the recieving clinician make a triage decision.
+Each patient’s historical electronic health record (EHR) data captures one or more instances (or episodes) of care under mental health services.  A referral is almost always provided as documentation to help the clinician reviewing the case make an accurate and timely triage decision.
 
 chrono**sig** will use natural language processing (NLP) techniques to represent a patient’s longitudinal signature (or ‘fingerprint’) -- capturing their history, signs/symptoms and presenting difficulties -- and then learn associations between these signatures and triage decisions (captured as explicit structured data in patient’s EHR data).  The aim is to deliver a triage clinical decision support tool (CDST) that takes as input a patient’s referral documentation, utilises existing medical notes (when available) and delivers a suggested triage outcome to assist MDTs.  
 
@@ -48,7 +51,7 @@ In the United Kingdom, mental healthcare is stratified into primary (led by Gene
 
 Patients requiring secondary care are referred to a triage and assessment function, contained in community mental health teams (CMHTs) operating in NHS Trusts (collections of community-based clinics and inpatient hospitals).  Referrals for triage and assessment are almost always via documents written by the referring professional who is most often a general practitioner (GP), a healthcare professional in an emergency department or member of a social care organisation.  
 
-{{< figure src="referral-bounce.png" caption="Referral Routing and Bouncing" numbered="true" >}}
+{{< figure src="referral-bounce.png" caption="Referral Routing and Bouncing: **(1)** A new patient referral is received by Team A who on triaging, decide the patient has been referred to the wrong geographical team and send onwards to Team B; **(2)** On repeating the triage, Team B clinicians decide that the patient's clinical needs may be better met by Team C, but as the arrows indicate, this requires some back-and-forth negotiating; **(3)** Team C is consulted (and they repeat the triaging of the referral) who feel that while they are the correct team, some features of the patient's presentation warrant input or co-working with Team D; **(4)** Team D triage the referral and feedback to Team C and may agree, or disagree, that they can offer useful clinical input.  In this example, the patient's referral is bounced multiple times and could result in rejection of the referral e.g. if Team B felt the patient's needs would not be appropriate for secondary care"  numbered="true" >}}
 
 > In March 2021, across England’s mental healthcare NHS Trusts, there were 404,552 new referrals (NHS Digital, 2021).  
 
@@ -96,7 +99,7 @@ The diagram above outlines how chrono**sig** works for digital triaging:
 
 Referrals to secondary mental healthcare are triaged by a multi-disciplinary team (MDT) in "assessment meetings" where a group of mental health professionals will review each referral and decide on the most appropriate team for a given person.  
 
-  5. chrono**sig** takes a tokenized version of the patient document as an input.  chrono**sig** has previously been trained on tens-of-thousands of anonymised patient documents to a) locate and identify common patterns in the tokenized streams and b) to match these common patterns to treatment teams within secondary care.  chrono**sig** can then recommend which treatment teams have previously accepted and treated similar patients.
+  5. chrono**sig** takes a tokenized version of the patient document as an input.  chrono**sig** has previously been [trained](../post/ppi-intro-post#explain-AI)) on tens-of-thousands of anonymised patient documents to a) locate and identify common patterns in the tokenized streams and b) to match these common patterns to treatment teams within secondary care.  chrono**sig** can then recommend which treatment teams have previously accepted and treated similar patients.
   6. chrono**sig**'s recommendation is delivered to the MDT, which in the example above, shows that Team B is the best matching team, followed by Team C, D and then A.
   7. To help clinicians use chrono**sig**'s recommendations robustly, the original patient document is displayed with highlighted regions showing the patterns in that chrono**sig** used to make it's recommendations -- this helps ensure that clinicians are aware of what features of a given patient are relevant to the recommendations chrono**sig** makes
   8. There will be situations where chrono**sig**'s recommendations are inconclusive or don't make sense to the clinicians in the MDT -- in these circumstances, the MDT will review the full patient document to complete the triage process
@@ -162,7 +165,7 @@ One overarching confidentiality principle is that data that *could* identify any
 
 This is a particular risk when two distinct and anonymised sources of data are combined or linked.  For example, assume that in the AHN database there is only one male patient, aged 53, diagnosed with depression living in a particular geographical region (e.g. a top-level postcode such as OX1).  If this information was combined with, for example, a DVLA database of drivers living at specific streets in OX1 and there was only one male 53 year old driver in that database, one could infer that the 53 year old male patient with depression is the same person who lives at the address contained in the DVLA database.  
 
-For this reason, Akrivia Health Network (AHN) data are never linked to other NHS, public sector or commercial datasets without explicit research ethics committee approval – i.e. above and beyond those processes for the usual approval of AHN projects – in those cases, explicit contingencies have to be put in place to mitigate such identification risks and this usually involves stating that if, on combining the two databases, there are less than a threshold number of patients (for example, 10) then those patients will not be usedm analysed or reported in the combined, linked data set.  
+For this reason, Akrivia Health Network (AHN) data are never linked to other NHS, public sector or commercial datasets without explicit research ethics committee approval – i.e. above and beyond those processes for the usual approval of AHN projects – in those cases, explicit contingencies have to be put in place to mitigate such identification risks and this usually involves stating that if, on combining the two databases, there are less than a threshold number of patients (for example, 10) then those patients will not be used analysed or reported in the combined, linked data set.  
 
 For the chrono**sig** project, there will be **no data linkage** with other NHS, public sector or commercial databases.  
 
