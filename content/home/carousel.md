@@ -15,6 +15,7 @@ height: 350px
 
 
 item:
+
   - title: Every hour spent in thinking and talking about whom to treat, and how, and how long is being subtracted from the available pool of therapeutic time itself
     content: 'Paul Meehl (1954) *Clinical versus Statistical Prediction*'
     # Choose `center`, `left`, or `right` alignment.
