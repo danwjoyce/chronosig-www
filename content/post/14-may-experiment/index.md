@@ -8,20 +8,24 @@ tags: ["announcements", "experiments"]
 categories: ["AI","Decision Making"]
 ---
 
-As artificial intelligence (AI) promises to become a larger part of the clinical workflow in healthcare, we need to understand how clinicians and AI can "work together".  In medical applications of AI, we often hear how an AI tool either equals or outperforms clinicians.  
+**VOLUNTEERS NEEDED FOR ONLINE STUDY OF ARTIFICIAL INTELLIGENCE ASSISTED DECISION MAKING**
 
-However, when we eventually deploy these tools in clinical workflows, the reality is more likely to be that clinicians will use the outputs of these tools to inform or **augment** -- rather than **replace** -- their own decision making processes. 
+University of Oxford Central University Research Ethics Committee Reference: R80680/RE001
 
-In chrono**sig**, we are trying to study how we can most usefully augment clinician's decision making with the outputs of clinical decision support tools (CDSTs).
+With new advances in artificial intelligence, clinical decision support tools (CDSTs) are an area of technology assisted healthcare that are receiving increasing attention. CDSTs take an input – i.e. data about a patient – and deliver an output in the form of a decision, recommendation or prediction. This output is presented alongside a certainty estimate – i.e. how certain or uncertain the tool is about its prediction. In diagnostic decision support tools, one can consider the output of the tool in the form of a CDSTs belief in a diagnosis, and the tool’s certainty (or uncertainty) in that belief. In order to utilise CDSTs in practice, clinicians will be required to interpret both the output of a tool, and its uncertainty estimate, and integrate this with their own clinical assessment. The aims of our study are to assess the ability of medically trained individuals to do this.
 
-To do this, we need to know how a clinician's decisions or beliefs (for example, about diagnoses, recommendations for treatments, estimating risk or prognostics) can be integrated with the outputs of an CDST. 
+We are looking for:
 
-If you have 15 minutes, you can help us with this by completing an online experiment that consists of a short, engaging tutorial followed by a series of questions simulating the task of making a diagnosis with the help of a CDST.
+  * medical students (any year)
+  * and qualified medical doctor volunteers (any specialty, any career grade)
 
-We need people who are 
+ Who are aged 18 and over, to participate in an online study to investigate the above aims. You are invited to complete a short survey for one session, taking approximately 20-30 minutes. 
 
-  * medical students 
-  * medically-qualified at *any level* and in *any specialty*
+ You would be asked to complete online tasks that examine how you interpret and process the output of an artificial intelligence clinical decision support tool.
+
+If you would like to participate in the study, please follow the links below which will take you to a more detailed information sheet. There is no obligation to take part.
+
+If you are interested but would like more information please contact Dan Joyce (email: dan.joyce@psych.ox.ac.uk), or Jonathan Cattrall (email: jonathan.cattrall@bnc.ox.ac.uk) at the Department of Psychiatry, University of Oxford. 
 
 To participate, [please click here](https://psychiatryoxford.qualtrics.com/jfe/form/SV_agetRQO7VFI2q5U) (or use the QR code).
 
@@ -33,7 +37,7 @@ Thanks for your time and attention
 
 The chrono**sig** team
 
-
+---
 
 
 
