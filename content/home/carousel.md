@@ -17,19 +17,19 @@ height: 350px
 item:
 
 
-  - title: chronoFest 2022
-    content: 'Attend our free, one-day mini-conference on 12th July 2022'
-    align: center
-    # overlay_color: '#555'
-    overlay_img: stone-background4.jpg
-    overlay_filter: 1.0
-    # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Events
-    cta_url: '/event/'
-    cta_icon_pack: fas
-    cta_icon: bell
+  # - title: chronoFest 2022
+  #   content: 'Attend our free, one-day mini-conference on 12th July 2022'
+  #   align: center
+  #   # overlay_color: '#555'
+  #   overlay_img: stone-background4.jpg
+  #   overlay_filter: 1.0
+  #   # Call to action button (optional).
+  #   #   Activate the button by specifying a URL and button label below.
+  #   #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  #   cta_label: Events
+  #   cta_url: '/event/'
+  #   cta_icon_pack: fas
+  #   cta_icon: bell
 
   - title: Every hour spent in thinking and talking about whom to treat, and how, and how long is being subtracted from the available pool of therapeutic time itself
     content: 'Paul Meehl (1954) *Clinical versus Statistical Prediction*'
