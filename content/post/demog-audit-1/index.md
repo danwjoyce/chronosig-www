@@ -39,7 +39,7 @@ We choose to start this process by exploring how people from the LGBTQ+ communit
 
 We interrogated the demographic data from one large regional secondary mental health care provider (NHS Trust) participating in the chrono**sig** project and attempted to compare the representation of different sexual orientations and gender identities to that of the same region's Office for National Statistics (ONS) [census data](https://www.ons.gov.uk/census).  
 
-If we look at ONS data for [gender identity](https://www.ons.gov.uk/methodology/classificationsandstandards/measuringequality/genderidentity/exploringexistingdataongenderidentityandsexualorientation#data-sources-on-gender-identity), at the time of writing, we find that there is research on data gathering and harmonisation, but no usable quantitative data available by region (e.g. counties in England).
+If we look at ONS data for [gender identity](https://www.ons.gov.uk/methodology/classificationsandstandards/measuringequality/genderidentity/exploringexistingdataongenderidentityandsexualorientation#data-sources-on-gender-identity), at the time of writing, we find that there is research on data gathering and harmonisation (that is, how to make disparate sources of data on gender identity compatible with one another), but no usable quantitative data available by region (e.g. counties in England).
 
 ONS data is [available for sexual orientation](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/sexuality/bulletins/sexualidentityuk/2019) (from 2019) so we are able to inspect proportions in the region's population and compare against those from the same area's secondary mental healthcare NHS Trust.
 
@@ -108,7 +108,7 @@ The diagram above shows putative reasons why the representation of LGBTQ+ people
 
 On the first and second points, whether healthcare providers should routinely ask people about their sexual orientation and gender identity remains a contentious issue -- for example, Ma and Dixon (2018) highlight a range of issues including that staff are generally poorly trained to navigate discussions around sexual orientation and the risks of an untargeted "ask everyone" approach.  
 
-As an example of the third point, Durso and Meyer (2013) conducted a 1 year study of 396 lesbian, gay and bisexual people in New York City to understand what factors modify disclosure of sexual orientation to healthcare providers.  Their findings where that people who identify as bisexual were *less likely* than gay or lesbian people to disclose their orientation to healthcare providers, with age, education, immigration status and degree of community connectednes being additional explanatory factors.  
+As an example of the third point, Durso and Meyer (2013) conducted a 1 year study of 396 lesbian, gay and bisexual people in New York City to understand what factors modify disclosure of sexual orientation to healthcare providers.  Their findings were that people who identify as bisexual were *less likely* than gay or lesbian people to disclose their orientation to healthcare providers, with age, education, immigration status and degree of community connectednes being additional explanatory factors.  
 # Actions
 We can see that there are biases in the NHS data examined and we can speculate on what might be driving these.  Here's what we are proposing to advance on what we've found:
 
